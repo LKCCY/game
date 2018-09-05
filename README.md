@@ -9,3 +9,7 @@
 ![](https://github.com/LKCCY/game/blob/master/images/13.png) ![](https://github.com/LKCCY/game/blob/master/images/12.png)
 ### 游戏场景
 ![](https://github.com/LKCCY/game/blob/master/images/11.png) ![](https://github.com/LKCCY/game/blob/master/images/14.png) 
+### 主要碰撞检测
++ 坦克与地图的碰撞
+
++ 子弹与坦克的碰撞
