@@ -12,4 +12,21 @@
 ### 主要碰撞检测
 + 坦克与地图的碰撞
 ![](https://github.com/LKCCY/game/blob/master/images/u1.png)
-+ 子弹与坦克的碰撞
+```
+       if(b1<t2 || l1>r2 || t1>b2 || r1<l2){ 
+        // 没碰上
+                }else{  
+                    //碰撞
+                }  
+```
+
++ 坦克与坦克的碰撞
+```
+//坦克和敌人的x，y的差值均小于坦克的宽度（32）则碰到了
+let xVal = Math.abs(tank.x - bonus.x),
+    yVal = Math.abs(tank.y - bonus.y);
+
+if (xVal < 32 && yVal < 32) {
+    //碰撞了
+}
+```
