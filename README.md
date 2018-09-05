@@ -11,5 +11,5 @@
 ![](https://github.com/LKCCY/game/blob/master/images/11.png) ![](https://github.com/LKCCY/game/blob/master/images/14.png) 
 ### 主要碰撞检测
 + 坦克与地图的碰撞
-
+![](https://github.com/LKCCY/game/blob/master/images/u1.png)
 + 子弹与坦克的碰撞
