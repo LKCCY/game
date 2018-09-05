@@ -4,7 +4,7 @@
 + 使用canvas和JS面向对象
 + 4个游戏场景：开始页面，游戏页面，通关页面，失败页面
 + 2个游戏关卡：最大还原经典画面
-
++ 6个类：游戏类，场景类，坦克类，敌机类，子弹类，地图类
 ### 游戏关卡
 ![](https://github.com/LKCCY/game/blob/master/images/13.png) ![](https://github.com/LKCCY/game/blob/master/images/12.png)
 ### 游戏场景
