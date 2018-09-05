@@ -31,3 +31,4 @@ if (xVal < 32 && yVal < 32) {
 }
 ```
 # JQ 2048
+![](https://github.com/LKCCY/game/blob/master/images/game1.png)
